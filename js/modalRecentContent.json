@@ -1,0 +1,30 @@
+[{
+  "title": "Inspiring Women NS",
+  "link": "http://inspiringwomenns.ca",
+  "desc": "Contract (under development) - New Drupal Install with proprietary theme layer requiring customization (and updating).  Heavily customized views with profiles integration, to allow for multi-tiered hierarchical layers of user access.",
+  "desclist": ["Drupal","PHP","Javascript","jQuery","CSS","Theming","Module Development"]
+},
+{
+  "title": "100 Men Halifax",
+  "link": "http://www.100menhfx.ca/100menhfx/",
+  "desc": "Contract (under development) - New Drupal install, from PSD files, sliced to html/css/javascript/php custom interface.",
+  "desclist": ["Drupal","PHP","Javascript","jQuery","CSS","Theming","Module Development"]
+},
+{
+  "title": "Canadian Museum of Immigration",
+  "link": "http://www.pier21.ca/",
+  "desc": "Lead architect for multi-language Drupal installation, heavily customized modules, and custom theme integration.  Multi-faceted hierarchical layers of user access.",
+  "desclist": ["Drupal","PHP","Javascript","jQuery","CSS","Theming","Module Development"]
+},
+{
+  "title": "E-commerce Shop - Canadian Museum of Immigration",
+  "link": "http://shop.pier21.ca/",
+  "desc": "Opensource (Opencart), MVC, multi-language, customized, e-commerce shopping solution. ",
+  "desclist": ["Opencart","MVC","PHP","Javascript", "CSS","Theming","Module Development"]
+},
+{
+  "title": "Canada Day 1 - Mobile App",
+  "link": "https://itunes.apple.com/ca/app/canada-day-1/id893651715",
+  "desc": "Multi-Platform (Apple/Android/Blackberry), multi-language mobile app.  Written entirely in HTML5, CSS, and Javascript, utilizing Apache Cordova / Phonegap. A favorite project of mine. ",
+  "desclist": ["Apache Cordova / Phonegap","Javascript","HTML5","CSS"]
+}]
