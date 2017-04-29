@@ -1,0 +1,21 @@
+{
+  "name": "wjdedrick.ca",
+  "version": "1.0.0",
+  "description": "my site",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdedrick/wjdedrick.ca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdedrick/wjdedrick.ca/issues"
+  },
+  "homepage": "https://github.com/jdedrick/wjdedrick.ca#readme"
+}
